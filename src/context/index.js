@@ -1,0 +1,1 @@
+export {useDataContext,DataProvider,DataContext} from "./globalContext"
